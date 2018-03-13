@@ -72,6 +72,7 @@
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
 					<businessGroup>MuleUnitedAirlines</businessGroup>
+					<region>ap-southeast-2</region>
 				</configuration>
 				<executions>
 					<execution>
